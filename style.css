@@ -5,16 +5,11 @@
 }
 
 body {
-  background-image: url(./img/pexels-_ѩѷѻҏ-ѫєљѩӡӄѻ҇ѷ-1738402.jpg);
-  background-size: cover;
+  background-color: black;
   text-align: center;
   font-family: "oswald";
-  display: flex;
   font-size: 20px;
-  width: 100vw;
-  height: 100vh;
-  min-height: 100vh;
-
+  display: flex;          
 }
 
 h1 {
@@ -37,18 +32,14 @@ input, button {
   opacity: 1;
 }
  
-#container {
-    background-color: rgba(0, 0, 0, .7);    
+#container {   
     padding: 50px;
     border-radius: 10px;
     color: white;
     margin-top: 25px;
-    width: 100vw;
-    height: 100vh;
     max-width: 600px;
     max-height: 800px;
-    margin-inline: auto; 
-    
+    margin-inline: auto;
 }
 
 
