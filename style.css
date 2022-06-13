@@ -9,8 +9,8 @@ body {
   background-size: cover;
   text-align: center;
   font-family: "oswald";
+  display: flex;
   font-size: 20px;
-  display: grid;
   width: 100vw;
   height: 100vh;
 
@@ -41,7 +41,7 @@ input, button {
     padding: 50px;
     border-radius: 10px;
     color: white;
-    margin-top: 50px;
+    margin-top: 25px;
     width: 100vw;
     height: 100vh;
     max-width: 600px;
@@ -79,28 +79,3 @@ button:hover {
   opacity: 0.9;
   margin-bottom: 10px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
