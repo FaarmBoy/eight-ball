@@ -10,10 +10,10 @@ body {
   text-align: center;
   font-family: "oswald";
   font-size: 20px;
-  
-  
-  
-  
+  display: grid;
+  width: 100vw;
+  height: 100vh;
+
 }
 
 h1 {
@@ -38,16 +38,18 @@ input, button {
  
 #container {
     background-color: rgba(0, 0, 0, .7);    
-    padding: 50px 100px 100px 100px;
+    padding: 50px;
     border-radius: 10px;
     color: white;
     margin-top: 50px;
-    width: 80%;
+    width: 100vw;
+    height: 100vh;
     max-width: 600px;
     max-height: 800px;
-    margin-inline: auto;
-    
+    margin-inline: auto; 
 }
+
+
 
 input {
     margin-bottom: 20px;
@@ -77,6 +79,20 @@ button:hover {
   opacity: 0.9;
   margin-bottom: 10px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
