@@ -13,6 +13,7 @@ body {
   font-size: 20px;
   width: 100vw;
   height: 100vh;
+  min-height: 100vh;
 
 }
 
@@ -47,7 +48,7 @@ input, button {
     max-width: 600px;
     max-height: 800px;
     margin-inline: auto; 
-    min-height: auto;
+    
 }
 
 
