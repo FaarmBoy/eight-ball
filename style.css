@@ -5,7 +5,10 @@
 }
 
 body {
-  background-color: black;
+  background: url(./img/pexels-_ѩѷѻҏ-ѫєљѩӡӄѻ҇ѷ-1738402.jpg);
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
   text-align: center;
   font-family: "oswald";
   font-size: 20px;
@@ -32,7 +35,8 @@ input, button {
   opacity: 1;
 }
  
-#container {   
+#container {  
+    background: rgba(0, 0, 0, .7); 
     padding: 50px;
     border-radius: 10px;
     color: white;
@@ -40,6 +44,8 @@ input, button {
     max-width: 600px;
     max-height: 800px;
     margin-inline: auto;
+    background-size: cover;
+    min-height: 800px;
 }
 
 
