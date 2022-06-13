@@ -47,6 +47,7 @@ input, button {
     max-width: 600px;
     max-height: 800px;
     margin-inline: auto; 
+    min-height: auto;
 }
 
 
