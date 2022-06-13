@@ -5,14 +5,11 @@
 }
 
 body {
-  background: url(./img/pexels-_ѩѷѻҏ-ѫєљѩӡӄѻ҇ѷ-1738402.jpg);
-  background-size: cover;
-  width: 100vw;
-  height: 100vh;
+  background: url(./img/970832.jpg);
   text-align: center;
   font-family: "oswald";
   font-size: 20px;
-  display: flex;          
+  display: flex;        
 }
 
 h1 {
